@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+#topo {
+    background-color: #21022d;
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+#corpo {
+    background-color: #e2d8e7;
+    margin: 24px;
+    color: #21022d;
+}
+#Cardápio {
+    margin-top: 16px;
+    margin-left: 16px;
+}
+#vita1 {
+    margin-top: 32px;
+    margin-left: 64px;
+}
+.imagem {
+    height: 150px;
+    width: 150px;
+}
+#textos {
+    margin-left: 64px;
+}
+#semlactose {
+    text-align: center;
+}
+#lasttitle {
+    margin-top: 64px;
+}
+#lastimage {
+    margin-top: 32px;
+    height: 300px;
+    width: 600px;
+}
+#rodapé {
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
